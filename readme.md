@@ -6,8 +6,6 @@
 ```
 # Cara Menggunakan unit testing
 ```bash
-    #you can import post collection with this link
-    -
     - Jalankan Terlebih dahulu main.go
     - Masuk kedalam folder test 
     - kemudian Ketikan perintah berikut :
